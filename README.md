@@ -1,4 +1,4 @@
-## 1. Οδηγίες Χρήσης
+## 1. Οδηγίες Χρήσης (Offline)
 
 1.  **Εγκατάσταση Βιβλιοθηκών**:
     ```bash
@@ -8,3 +8,6 @@
     ```bash
     streamlit run main.py
     ```
+## 2. Online Χρήση
+
+**Link**: [https://educational-app-for-basic-ml-concepts.streamlit.app/](https://educational-app-for-basic-ml-concepts.streamlit.app/)
